@@ -42,8 +42,3 @@ const API = {
     return json;
   },
 };
-
-
-// 4 routes front get last working
-// 2 or 3 html routes front
-
